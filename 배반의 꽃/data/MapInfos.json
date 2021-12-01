@@ -1,0 +1,17 @@
+[
+null,
+{"id":1,"expanded":true,"name":"마을","order":2,"parentId":7,"scrollX":410.4,"scrollY":538.1999999999999},
+{"id":2,"expanded":false,"name":"주인공 집","order":3,"parentId":1,"scrollX":0,"scrollY":0},
+{"id":3,"expanded":false,"name":"여주인공 집","order":4,"parentId":1,"scrollX":0,"scrollY":0},
+{"id":4,"expanded":false,"name":"주민1의 집","order":5,"parentId":1,"scrollX":405.59999999999997,"scrollY":538.1999999999999},
+{"id":5,"expanded":false,"name":"주민2의 집","order":6,"parentId":1,"scrollX":405.59999999999997,"scrollY":538.1999999999999},
+{"id":6,"expanded":false,"name":"무기상점","order":7,"parentId":1,"scrollX":405.59999999999997,"scrollY":538.1999999999999},
+{"id":7,"expanded":true,"name":"월드맵","order":1,"parentId":0,"scrollX":405.59999999999997,"scrollY":538.1999999999999},
+{"id":8,"expanded":true,"name":"동굴입구","order":8,"parentId":7,"scrollX":0,"scrollY":0},
+{"id":9,"expanded":true,"name":"동굴 stage1","order":9,"parentId":8,"scrollX":0,"scrollY":0},
+{"id":10,"expanded":true,"name":"동굴 stage2","order":10,"parentId":8,"scrollX":0,"scrollY":0},
+{"id":11,"expanded":true,"name":"동굴 stage3","order":11,"parentId":8,"scrollX":0,"scrollY":0},
+{"id":12,"expanded":true,"name":"동굴 stage4 ","order":12,"parentId":8,"scrollX":0,"scrollY":0},
+{"id":13,"expanded":true,"name":"동굴 stage5 보스","order":13,"parentId":8,"scrollX":0,"scrollY":0},
+{"id":14,"expanded":true,"name":"출구","order":14,"parentId":8,"scrollX":0,"scrollY":0}
+]
